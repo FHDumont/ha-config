@@ -1,5 +1,5 @@
 #!/bin/bash
-# wget -O - https://github.com/FHDumont/ha-config/blob/main/install-debian.sh | bash -
+# wget -O - https://raw.githubusercontent.com/FHDumont/ha-config/main/install-debian.sh | bash -
 
 echo
 echo Installing Home Assistant
